@@ -3,7 +3,6 @@ import TodoList from './TodoList'
 
 // localStorage.clear()
 
-
 function App() {
   const LOCAL_STORGE_KEY = 'todoList'
 
